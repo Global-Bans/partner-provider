@@ -1,0 +1,3 @@
+# Global Bans Partner Provider Socket
+
+## Global Bans is a ....
